@@ -1,0 +1,16 @@
+#content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10em;
+    padding-top: 1em;
+}
+
+h1 {
+    text-align: center;
+    margin-top: .5em;
+}
+
+html {
+    height: 100vh;
+}
